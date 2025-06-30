@@ -8,10 +8,10 @@ Finished and evaluated, currently writting the final report for it.
 ## Project's History:
 
 ### Phase I:
-Assuming a loseless cable, evaluate the effect it has on the input signal (only in terms of phase shifting).
+Assuming a loseless cable, evaluate the effect it has on the input signal (only in terms of phase shifting) - Symbolic Calc on MATLAB.
 
 ### Phase II:
-Assuming, now, a cable that has losses, find the H(w) of the cable and show how much the c1, c2 and c3 coefficients affect it.
+Assuming, now, a cable that has losses, find the H(w) of the cable and show how much the c1, c2 and c3 coefficients affect it - FFT.
 
 ### Phase III:
 Confirm the results with lab experiments and refine the model obtained on phase II.
